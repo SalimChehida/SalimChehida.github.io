@@ -1,4 +1,4 @@
-# Research
+# Publications
 
-## May 2019  
+## Journal Articles
 
