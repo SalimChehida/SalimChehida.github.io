@@ -1,4 +1,0 @@
-# Publications
-
-## Journal Articles
-
