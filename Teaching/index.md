@@ -1,4 +1,4 @@
-## Teaching
+##Teaching
 
 The teachings that I have done as an assistant professor (September 2010 - September 2014) and as a lecturer (from 2017 to February 2018)  at the Department of Mathematics and Computer Science of the University of Mostaganem in Algeria are :
 
