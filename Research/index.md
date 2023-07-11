@@ -12,7 +12,7 @@ Actions:
 -Application of SMC (Statistical Model Checking) for analyzing sensors behavior, and for formal modeling and verification of collaborative intelligent robots system.
 Publications:
 - [Learning and Analysis of Sensors Behavior in IoT Systems using Statistical Model Checking] (https://link.springer.com/article/10.1007/s11219-021-09559-w)
-- [Asset-Driven Approach for Security Risk Assessment in IoT Systems] 
+- [Asset-Driven Approach for Security Risk Assessment in IoT Systems] (https://doi.org/10.1007/978-3-030-68887-5_9)
 
 ## March 2018 - April 2019: 
 Post-doctoral researcher, LIG Laboratory, UGA, France.
@@ -37,5 +37,5 @@ Actions:
 - Development of tools supporting extensions and transformations using the Eclipse Modeling Framework (Papyrus, Ecore Tools, QVTo and B4MSecure).
 
 Publications:
-[Extensions du diagramme ](http://www.iieta.org/download/file/fid/28047)
+[Extensions du diagramme d’activité pour la spécification de politiques RBAC](http://www.iieta.org/download/file/fid/28047)
 
