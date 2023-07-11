@@ -10,7 +10,7 @@
 
 
 
-<!--
+<!---
 I am a postdoctoral researcher at [Verimag](https://www.verimag.fr), [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/). 
 
 ### From April 2021, I am working on :
@@ -27,7 +27,7 @@ European project that aims at establishing a framework and methodology that supp
 ANR project that focus on analysis of execution traces of cyber-physical systems. (From March 2018 to April 2019)
 
 I defended my [Ph.D.](https://theses.univ-oran1.dz/document/15201707t.pdf) in computer science on 2017 at University of Oran 1 (Algeria) in collaboration with University of Grenoble Alpes (France). 
--->
+--->
 
 ### Research interest 
 Formal Modeling and Verification of software systems. 
