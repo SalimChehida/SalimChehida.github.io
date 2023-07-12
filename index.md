@@ -6,7 +6,7 @@
 
 - I received my Ph.D. in software engineering from University of Oran 1 in Algeria in collaboration with University of Grenoble Alpes in France in 2017.
 
-- I participated in numerous R&D projects with [LIG](https://www.liglab.fr/en), [Verimag](https://www-verimag.imag.fr/?lang=en) and [INRIA](https://www.inria.fr/en/inria-centre-university-grenoble-alpes): ANR MODMED, EU BRAIN-IoT, EU CPS4EU and MODWIN.
+- I participated in some R&D projects with [LIG](https://www.liglab.fr/en), [Verimag](https://www-verimag.imag.fr/?lang=en) and [INRIA](https://www.inria.fr/en/inria-centre-university-grenoble-alpes) Labs: ANR MODMED, EU BRAIN-IoT, EU CPS4EU and MODWIN.
 
 
 
@@ -30,8 +30,8 @@ I defended my [Ph.D.](https://theses.univ-oran1.dz/document/15201707t.pdf) in co
 --->
 
 ## Interests
-- Modeling, testing and verification of systems.
-- Deep learning and computer vision.
+- Design, testing and verification of software systems.
+- Deep learning for computer vision.
 - Data-driven development 
 - Model-driven engineering 
 - Domain-specific languages 
