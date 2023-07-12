@@ -1,6 +1,19 @@
-## <span style="color:orange"> MODWIN UGA Project </span>
+## <span style="color:orange"> FOCETA European project </span> [URL](https://www.foceta-project.eu/)  
 
-Mission: Coordination and composition of DSLs (Domain Specific Languages)
+[June 2023 - until now] - FETLAS Team, Verimag Laboratory, France.
+
+Mission: rigorous Design of Intelligent Systems
+
+Partner: Tsukuba University, Japan  
+
+Main actions: 
+-  Malware analysis based on representative digital images using neural networks.
+
+## <span style="color:orange"> MODWIN UGA Project </span> 
+
+[October 2022 - until now] - VASCO Team, Grenoble Computer Science Laboratory, France.  
+
+Mission: coordination and composition of DSLs (Domain Specific Languages)
 
 Partner: INRIA (CONVECS Team)
 
@@ -10,14 +23,18 @@ Main actions:
 
 ## <span style="color:orange"> CPS4EU European Project</span> [URL](https://cps4eu.eu/)  
 
+[April 2022- September 2022] - Ctrl-A Team, INRIA Grenoble - Rhone-Alpes, France.
+
 Mission: design and security of self-adaptive cyber-physical and IoT systems
 
 Partner: French Power Transmission Company (RTE)
 
 Main actions: 
-Design of a platform based on constraint programming for modeling and security of self-adaptive cyber-physical systems (Smart-Grid Infrastructure from RTE)
+-  Design of a platform based on constraint programming for modeling and security of self-adaptive cyber-physical systems (Smart-Grid Infrastructure from RTE)
 
 ## <span style="color:orange"> BRAIN-IoT European project</span> [URL](https://www.brain-iot.eu/) 
+
+[May 2019 - Mars 2022] - RSD Team, Verimag Laboratory, France.
 
 Mission: design, formal verification, development and security of Cyber-physical and IoT systems
 
@@ -32,6 +49,8 @@ Main actions:
 
 ## <span style="color:orange"> ANR MODMED project</span> [URL](http://vasco.imag.fr/MODMED/MODMEDHome.html) 
 
+[March 2018 - April 2019] - VASCO Team, Grenoble Computer Science Laboratory, France. 
+
 Mission: analyze the execution traces of Medical Cyber-Physical Systems
 
 Partners: BlueOrtho, MinMaxMedical
@@ -43,6 +62,8 @@ Main actions:
 
 
 ## <span style="color:orange"> PHD Project</span> [URL](https://theses.univ-oran1.dz/document/15201707t.pdf) 
+
+[2014 - 2016] - VASCO Team, Grenoble Computer Science Laboratory, France. 
 
 Mission: specification and verification of access control policies
 
