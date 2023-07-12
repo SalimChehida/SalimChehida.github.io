@@ -1,18 +1,14 @@
-# Biography
 
 ## PROFESSIONAL EXPERIENCE
 
-- May 2019 - until now: Post-doctoral researcher, VERIMAG Laboratory, UGA, France.
+### 2018 - until now : R&D Expert at University of Grenoble Alpes (UGA) , France
 
-- March 2018 - April 2019: Post-doctoral researcher, LIG Laboratory, UGA, France.
+- Labs : [LIG](https://www.liglab.fr/en), [Verimag](https://www-verimag.imag.fr/?lang=en) and [INRIA](https://www.inria.fr/en/inria-centre-university-grenoble-alpes)
 
-- 2017 - February 2018: Lecturer in Computer Science, University of Mostaganem, Algeria.
 
-October 2014 - March 2016: Visiting researcher, LIG laboratory (France).
+### 2011 - 2017 : Assistant Professor, University of Mostaganem Abdelhamid ibn Badis (UMAB), Algeria
 
-- 2011 - September 2014: Assistant Professor in Computer Science, University of Mostaganem.
-
-- 2009 - 2010: Software development engineer, Office of the Land Registry, Algeria.
+### 2009 - 2010 : Software Engineer Finance Direction, Algeria
 
 
 ## EDUCATION
