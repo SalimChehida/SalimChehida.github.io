@@ -1,5 +1,5 @@
 
-## Journal Articles
+## <span style="color:orange"> Journal Articles </span>
 
 - Salim Chehida, Abdelhakim Baouya, Saddek Bensalem, Marius Bozga "Learning and Analysis of Sensors Behavior in IoT Systems using Statistical Model Checking". Software Quality Journal - Springer Journal. (selected paper QUATIC 2020)
 [URL](http://www.iieta.org/download/file/fid/28047)
@@ -12,7 +12,7 @@
 
  
 
-## Conference Papers
+## <span style="color:orange"> Conference Papers </span>
 
 - Salim Chehida, Abdelhakim Baouya, Diego Fernandez Alonso, Paul-Emmanuel Brun, Guillemette Massot, Marius Bozga, Saddek Bensalem (2020) "Asset-Driven Approach for Security Risk Assessment in IoT Systems". In: Garcia-Alfaro J., Leneutre J., Cuppens N., Yaich R. (eds) Risks and Security of Internet and Systems. CRiSIS 2020. Lecture Notes in Computer Science, vol 12528. Springer, Cham.
  [URL](https://doi.org/10.1007/978-3-030-68887-5_9)
