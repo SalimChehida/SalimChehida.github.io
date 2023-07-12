@@ -1,12 +1,12 @@
 
 
-- I am a research and development expert at University of Grenoble Alpes since March 2018.
+### Biography
 
-- I worked in sevral laboratories : LIG and VERIMAG laboratories, INRIA
+- Research and development expert at [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/) since March 2018.
 
-- I defended my PhD thesis in computer science since 2017 from University of Oran 1 in Algeria in collaboration with University of Grenoble Alpes in France.
+- I received my Ph.D. in software engineering from University of Oran 1 in Algeria in collaboration with University of Grenoble Alpes in France in 2017.
 
-- I participated in numerous innovative projects: ANR MODMED, EU BRAIN-IoT, EU CPS4EU and MODWIN.
+- I participated in numerous R&D projects with LIG and Verimag, INRIA: ANR MODMED, EU BRAIN-IoT, EU CPS4EU and MODWIN.
 
 
 
@@ -29,14 +29,15 @@ ANR project that focus on analysis of execution traces of cyber-physical systems
 I defended my [Ph.D.](https://theses.univ-oran1.dz/document/15201707t.pdf) in computer science on 2017 at University of Oran 1 (Algeria) in collaboration with University of Grenoble Alpes (France). 
 --->
 
-### Research interest 
-Formal Modeling and Verification of software systems. 
-Cyber-Physical Systems and IoT systems.
-Integrating semi-formal and formal specification methods. 
-Model Driven Engineering.
-Runtime verification.
-Information systems security.
-Learning and analysis of systems behavior.  
+### Interests
+- Modeling, testing and verification of systems.
+- Deep learning and computer vision.
+- Data-driven development 
+- Model-driven engineering 
+- Domain-specific languages 
+- Medical Software systems, Cyber-Physical systems and IoT systems
+- Runtime verification and systems security
+
 
 
 ### Contact 
