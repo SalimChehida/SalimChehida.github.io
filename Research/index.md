@@ -7,8 +7,7 @@ Main actions: <br>
 -  Malware analysis based on representative digital images using neural networks.
 
 ## <span style="color:orange"> MODWIN UGA Project </span> 
-[October 2022 - until now] - VASCO Team, Grenoble Computer Science Laboratory, France <br>  
-Mission: coordination and composition of DSLs (Domain Specific Languages) <br> 
+[October 2022 - until now] - VASCO Team, Grenoble Computer Science Laboratory, France <br> Mission: coordination and composition of DSLs (Domain Specific Languages) <br> 
 Partner: INRIA (CONVECS Team) <br> 
 
 Main actions: <br> 
