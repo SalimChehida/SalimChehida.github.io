@@ -4,12 +4,12 @@ Main actions:
 -  Development of a platform for modeling and verification of inter-DSL collaboration using BPMN, CSP and B languages.
 -  Design and verification of collaborative DSLs (configuration management DSL and security risk assessment DSL) for management of smart grid infrastructure from RTE.
 
-## <span style="color:orange"> [CPS4EU European Project](https://cps4eu.eu/)  </span>
+## <span style="color:orange"> [CPS4EU European Project]</span> URL(https://cps4eu.eu/)  
 
 Main actions: 
 Design of a platform based on constraint programming for modeling and security of self-adaptive cyber-physical systems (Smart-Grid Infrastructure from RTE).
 
-## <span style="color:orange"> [BRAIN-IoT European project](https://www.brain-iot.eu/) </span>
+## <span style="color:orange"> [BRAIN-IoT European project]</span> URL(https://www.brain-iot.eu/) 
 
 Main actions: 
 -  Prediction on IoT sensor data from a dam using machine learning and deep learning.
@@ -18,7 +18,7 @@ Main actions:
 -  Design and verification of IoT systems for the management of dams and collaborative robots for warehouse logistics.
 -  Specification and management of requirements, and security risk assessment in IoT systems.
 
-## <span style="color:orange"> [ANR MODMED project](http://vasco.imag.fr/MODMED/MODMEDHome.html) </span>
+## <span style="color:orange"> [ANR MODMED project]</span> URL(http://vasco.imag.fr/MODMED/MODMEDHome.html) 
 
 Main actions: 
 -  Building a DSL (ParTraP) for specifying properties on execution traces adapted to Medical Cyber-Physical Systems.
@@ -26,7 +26,7 @@ Main actions:
 
 
 
-## <span style="color:orange"> [Phd Project](https://theses.univ-oran1.dz/document/15201707t.pdf) </span>
+## <span style="color:orange"> [Phd Project]</span> URL(https://theses.univ-oran1.dz/document/15201707t.pdf) 
 
 Mission: specification and verification of access control policies.
 
