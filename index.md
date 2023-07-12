@@ -32,12 +32,13 @@ I defended my [Ph.D.](https://theses.univ-oran1.dz/document/15201707t.pdf) in co
 ## <span style="color:orange"> Interests </span>
 - Design, testing and verification of software systems.
 - Deep learning for computer vision.
-- Data-driven development 
+- Data-driven engineering
 - Model-driven engineering 
 - Domain-specific languages 
 - Runtime verification
 - Security risk assessment
-- Medical Software systems, Cyber-Physical systems and IoT systems
+- Medical Software systems 
+- Cyber-Physical systems and IoT systems
 
 
 
