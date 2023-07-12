@@ -1,5 +1,5 @@
 
-## PROFESSIONAL EXPERIENCE
+## <span style="color:green"> PROFESSIONAL EXPERIENCE </span>
 
 ### 2018 - until now : R&D Expert at University of Grenoble Alpes (UGA) , France
 
