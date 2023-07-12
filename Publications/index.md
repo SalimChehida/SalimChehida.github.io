@@ -1,10 +1,13 @@
 
 ## <span style="color:orange"> Journal Articles </span>
 
-- Salim Chehida, Abdelhakim Baouya, Saddek Bensalem, Marius Bozga "Learning and Analysis of Sensors Behavior in IoT Systems using Statistical Model Checking". Software Quality Journal - Springer Journal. (selected paper QUATIC 2020)
+- Salim Chehida, Abdelhakim Baouya, Saddek Bensalem, Marius Bozga (2022) "Learning and Analysis of Sensors Behavior in IoT Systems using Statistical Model Checking". Software Quality Journal - Springer Journal. (selected paper QUATIC 2022)
 [URL](http://www.iieta.org/download/file/fid/28047)
 
-- Salim Chehida, Yves Ledru, Yoann Blein, German Vega "An SMT-Based Approach for Generating Trace Examples and Counter-examples of Parametric Properties". International Journal of Critical Computer-Based Systems - Inderscience Publishers.
+- Abdelhakim Baouya, Salim Chehida, Samir Ouchani, Saddek Bensalem, Marius Bozga (2022) "Generation and Verification of Learned Stochastic Automata using k-NN and Statistical Model Checking". Applied Intelligence - Springer Journal.
+[URL](https://link.springer.com/article/10.1007/s10489-021-02884-4)
+
+- Salim Chehida, Yves Ledru, Yoann Blein, German Vega (2021) "An SMT-Based Approach for Generating Trace Examples and Counter-examples of Parametric Properties". International Journal of Critical Computer-Based Systems - Inderscience Publishers.
 [URL](https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijccbs)
 
 - Salim Chehida, Akram Idani, Yves Ledru, Mustapha Kamel Rahmouni (2016) "Extensions of activity diagram for specification of RBAC policy". ISI journal , vol 21, n 2/2016. 
@@ -13,6 +16,17 @@
  
 
 ## <span style="color:orange"> Conference Papers </span>
+
+ - Salim Chehida, Akram Idani, Mario Cortes-Cornax, German Vega (2023). A Formal MDE Framework for Inter-DSL Collaboration. In International Conference on Coordination Languages and Models (pp. 232-249). Cham: Springer Nature Switzerland.
+[URL](https://link.springer.com/chapter/10.1007/978-3-031-35361-1_13)
+
+- Salim Chehida, Bensalem, S.; Conzon, D.; Ferrera, E. and Tao, X. (2022). "BRAIN-IoT Architecture and Platform for Building IoT Systems". In Proceedings of the seventh International Conference on Internet of Things, Big Data and Security - IoTBDS, ISBN 978-989-758-564-7; ISSN 2184-4976, pages 67-77. [URL](https://www.scitepress.org/Link.aspx?doi=10.5220/0011086000003194)
+
+- Salim Chehida, Abdelhakim Baouya, Saddek Bensalem. (2021) "Component-Based Approach Combining UML and BIP for Rigorous System Design". In Formal Aspects of Component Software. FACS 2021. Lecture Notes in Computer Science, vol 13077. Springer, Cham.
+[URL](https://link.springer.com/chapter/10.1007/978-3-030-90636-8_2)
+
+- Salim Chehida and Jean-Claude Tshilenge Mfumu. (2021) "Analysis and Prediction of Viral Infections using Statistical Model Checking". In Proceedings of the 13th International Conference on Management of Digital EcoSystems (MEDES '21). Association for Computing Machinery, New York, NY, USA, 43–48.
+[URL](https://dl.acm.org/doi/10.1145/3444757.3485071)
 
 - Salim Chehida, Abdelhakim Baouya, Diego Fernandez Alonso, Paul-Emmanuel Brun, Guillemette Massot, Marius Bozga, Saddek Bensalem (2020) "Asset-Driven Approach for Security Risk Assessment in IoT Systems". In: Garcia-Alfaro J., Leneutre J., Cuppens N., Yaich R. (eds) Risks and Security of Internet and Systems. CRiSIS 2020. Lecture Notes in Computer Science, vol 12528. Springer, Cham.
  [URL](https://doi.org/10.1007/978-3-030-68887-5_9)
