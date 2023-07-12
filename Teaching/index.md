@@ -1,5 +1,20 @@
-## Teaching
+## <span style="color:orange"> Some Deep Learning Developments</span>
 
+
+
+### Analysis IoT of sensors data
+
+### Classification
+
+### Segmentation
+
+### Objects detection
+
+
+
+
+<!---
+## Teaching
 The teachings that I have done as an assistant professor (September 2010 - September 2014) and as a lecturer (from 2017 to February 2018)  at the Department of Mathematics and Computer Science of the University of Mostaganem in Algeria are :
 
 ### - Algorithms and Programming (1st year Bachelor of Science in Computer Science)
@@ -17,7 +32,7 @@ The teachings that I have done as an assistant professor (September 2010 - Septe
 ### - Administration and Organization of IS (Master 1, Information Systems Engineering)
 
 ### - Business Management (Master 1, Information Systems Engineering)
-
+--->
 
 
 
