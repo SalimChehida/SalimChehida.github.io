@@ -1,5 +1,5 @@
 
-## <span style="color:green"> Professional experience </span>
+## <span style="color:orange"> Professional experience </span>
 
 #### 2018 - until now : R&D Expert at University of Grenoble Alpes (UGA), France (Labs : [LIG](https://www.liglab.fr/en), [Verimag](https://www-verimag.imag.fr/?lang=en) and [INRIA](https://www.inria.fr/en/inria-centre-university-grenoble-alpes))
 
@@ -22,7 +22,7 @@
 -  Design and development of software systems for land transaction management.
 -  Head of software development department.
 
-## <span style="color:green"> Education </span>
+## <span style="color:orange"> Education </span>
 
 ####  2017: PhD in computer science, University of Oran 1 (Algeria)  in collaboration with University of Grenoble Alpes (France).
 -  Specialty: Software Engineering and Systems Security  
