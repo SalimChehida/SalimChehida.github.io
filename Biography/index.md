@@ -1,5 +1,5 @@
 
-## <span style="color:green"> PROFESSIONAL EXPERIENCE </span>
+## <span style="color:green"> Professional experience </span>
 
 #### 2018 - until now : R&D Expert at University of Grenoble Alpes (UGA), France (Labs : [LIG](https://www.liglab.fr/en), [Verimag](https://www-verimag.imag.fr/?lang=en) and [INRIA](https://www.inria.fr/en/inria-centre-university-grenoble-alpes))
 
@@ -18,17 +18,20 @@
 -  Management of teaching activities in the IT department.
 -  Teaching: software engineering, model-driven engineering, algorithms and programming, database administration. 
 
-#### 2009 - 2010 : Software Engineer Finance Direction, Algeria
+#### 2009 - 2010 : Software Engineer, Finance Direction, Algeria
 -  Design and development of software systems for land transaction management.
 -  Head of software development department.
 
-## <span style="color:green"> EDUCATION </span>
+## <span style="color:green"> Education </span>
 
 ####  2017: PhD in computer science, University of Oran 1 (Algeria)  in collaboration with University of Grenoble Alpes (France).
 -  Specialty: Software Engineering and Systems Security  
+
 ####  2010: Magister Degree in Information Systems Engineering, University of Mostaganem (Algeria).
 -  Specialty: Information Sciences and Technologies
+
 ####  2006: Engineer Degree in Computer Science, University of Mostaganem.
 -  Specialty: Information Systems Engineering and Data Science
+
 ####  2006: Bachelor in Commerce science, University of Mostaganem.
 -  Specialty: Finance
