@@ -15,8 +15,7 @@ A tool for exploring cost-effective security countermeasures against attacks <br
 [Paper](https://ieeexplore.ieee.org/abstract/document/9134200)
 
 ### Meeduse Framework for Inter-DSL Collaboration 
-A Formal model-driven engineering framework for modeling and verification of inter-DSL Collaboration <br>  
-[Code](https://github.com/SalimChehida/Inter-DSL-Collaboration) &ensp;
+A Formal model-driven engineering framework for modeling and verification of inter-DSL Collaboration <br> [Code](https://github.com/SalimChehida/Inter-DSL-Collaboration) &ensp;
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-35361-1_13)
 
 ### ParTraP-IDE 
