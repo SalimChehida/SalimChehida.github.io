@@ -1,6 +1,6 @@
 
 
-## <span style="color:green"> Biography </span>
+## <span style="color:orange"> Biography </span>
 
 - Research and development expert at [University of Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/) since 2018.
 
@@ -29,7 +29,7 @@ ANR project that focus on analysis of execution traces of cyber-physical systems
 I defended my [Ph.D.](https://theses.univ-oran1.dz/document/15201707t.pdf) in computer science on 2017 at University of Oran 1 (Algeria) in collaboration with University of Grenoble Alpes (France). 
 --->
 
-## <span style="color:green"> Interests </span>
+## <span style="color:orange"> Interests </span>
 - Design, testing and verification of software systems.
 - Deep learning for computer vision.
 - Data-driven development 
@@ -42,7 +42,7 @@ I defended my [Ph.D.](https://theses.univ-oran1.dz/document/15201707t.pdf) in co
 
 
 
-## <span style="color:green"> Contact </span>
+## <span style="color:orange"> Contact </span>
 Email: Salim.Chehida@univ-grenoble-alpes.fr
 
 
