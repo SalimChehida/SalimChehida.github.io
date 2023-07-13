@@ -1,6 +1,6 @@
 ## <span style="color:orange"> FOCETA European project </span> [URL](https://www.foceta-project.eu/)  
 [June 2023 - until now] - FETLAS Team, Verimag Laboratory, France <br> 
-Mission: rigorous Design of Intelligent Systems <br> 
+Mission: rigorous design of intelligent systems <br> 
 Partner: Tsukuba University, Japan <br>   
 
 Main actions: <br> 
