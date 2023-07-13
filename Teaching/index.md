@@ -2,7 +2,7 @@
 
 
 
-### Analysis IoT of sensors data
+### Analysis of IoT sensors data
 
 ### Classification
 
