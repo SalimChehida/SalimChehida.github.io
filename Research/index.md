@@ -1,13 +1,14 @@
 ## <span style="color:orange"> FOCETA European project </span> [URL](https://www.foceta-project.eu/)  
-[June 2023 - until now] - FETLAS Team, Verimag Laboratory, France <br> 
+[October 2023 - until now] - FETLAS Team, Verimag Laboratory, France <br> 
 Mission: rigorous design of intelligent systems <br> 
 Partner: Tsukuba University, Japan <br>   
 
 Main actions: <br> 
 -  Malware analysis based on representative digital images using neural networks.
+-  Building, testing and monitoring of deep learning systems..
 
 ## <span style="color:orange"> MODWIN UGA Project </span> 
-[October 2022 - until now] - VASCO Team, Grenoble Computer Science Laboratory, France <br> Mission: coordination and composition of DSLs (Domain Specific Languages) <br> 
+[October 2022 - Septembre 2023] - VASCO Team, Grenoble Computer Science Laboratory, France <br> Mission: coordination and composition of DSLs (Domain Specific Languages) <br> 
 Partner: INRIA (CONVECS Team) <br> 
 
 Main actions: <br> 
