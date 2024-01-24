@@ -3,6 +3,7 @@
 
 #### 2018 - until now : R&D Expert at University of Grenoble Alpes (UGA), France (Labs : [LIG](https://www.liglab.fr/en), [Verimag](https://www-verimag.imag.fr/?lang=en) and [INRIA](https://www.inria.fr/en/inria-centre-university-grenoble-alpes))
 
+-  Building, testing and monitoring of deep learning systems for medical images and malware analysis.
 -  Analysis and verification of execution traces for computer-aided surgery system.
 -  Analysis, prediction and anomaly detection in sensors data of IoT dam system.
 -  Modeling (with UML, SysML, Automata), formal verification (Model Checking), code generation, architecture specification, development (with Python, C/C++,  and Java), requirements management, and security risk assessment of cyber-physical and IoT systems (collaborative robot and water management infrastructure systems).
