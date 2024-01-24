@@ -16,7 +16,7 @@
 -  Management and development of projects involving DSL development, model transformation and testing.
 -  Management and development of projects involving the design and development of web applications for land, tourism and employment agencies.
 -  Preparation of thesis in computer science.
--  Management of teaching activities in the IT department.
+-  Head of computer science department.
 -  Teaching: software engineering, model-driven engineering, algorithms and programming, database administration. 
 
 #### 2009 - 2010 : Software Engineer, Finance Direction, Algeria
