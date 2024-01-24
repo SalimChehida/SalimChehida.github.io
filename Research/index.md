@@ -5,7 +5,7 @@ Partner: Tsukuba University, Japan <br>
 
 Main actions: <br> 
 -  Malware analysis based on representative digital images using neural networks.
--  Building, testing and monitoring of deep learning systems..
+-  Building, testing and monitoring of deep learning systems.
 
 ## <span style="color:orange"> MODWIN UGA Project </span> 
 [October 2022 - Septembre 2023] - VASCO Team, Grenoble Computer Science Laboratory, France <br> Mission: coordination and composition of DSLs (Domain Specific Languages) <br> 
